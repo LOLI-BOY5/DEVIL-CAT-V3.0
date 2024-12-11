@@ -18,7 +18,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = '𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3' //ur bot name
-global.ownernumber = ['2348133286181'] //ur owner number, dont add more than one
+global.ownernumber = ['237676324978'] //ur owner number, dont add more than one
 global.ownername = '𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
 global.wagc = "https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t"
@@ -27,9 +27,9 @@ global.wm = "No Name Tech Inc."
 global.botscript = 'https://github.com/Anime-King01/DEVIL-CAT-V3.0' //script link
 global.packname = "Sticker By"
 global.author = "𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3\n\n+2348133286181"
-global.creator = "2348133286181@s.whatsapp.net"
+global.creator = "237676324978@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348133286181"] // Premium User
+global.premium = ["237676324978"] // Premium User
 
 //channel id
 global.xchannel = {
@@ -47,7 +47,7 @@ global.tempatDB = 'database.json'
 
 global.limit = {
 	free: 100,
-	premium: 999,
+	premium: 99999,
 	vip: 'VIP'
 }
 
